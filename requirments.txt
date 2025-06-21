@@ -1,0 +1,5 @@
+fastapi==0.111.0        # web framework
+uvicorn[standard]==0.30.0
+fastapi-mcp==0.3.4      # auto‑generates the MCP server
+pydantic==2.8.1
+sqlalchemy==2.0.30      # placeholder if you wire a real DB
